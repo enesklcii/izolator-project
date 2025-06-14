@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymongo
+pillow
+torch
+torchvision
